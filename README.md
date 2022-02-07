@@ -1,9 +1,8 @@
-### Olá, meu nome é Guilherme 👋
+### Bem vindo ! Meu nome é Guilherme 👋
 
 
-- 🔭 Estou trabalhando como Auxiliar de TI 
-- 🌱 Estou aprendendo React
-- 👯 Estou procurando emprego como Desenvolvedor Junior
+- 🔭 Desenvolver Front End
+ 
 
 <div align="center">
   <a href="https://github.com/GuilhermeMarques-Ms">
